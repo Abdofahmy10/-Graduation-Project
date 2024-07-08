@@ -1,4 +1,4 @@
-# Graduation Project: Comprehensive Analysis System
+# Graduation Project: Comprehensive Analysis System ⚡🚀
 
 ## Project Overview
 This project integrates multiple analytical techniques to provide a holistic evaluation system. The main components include Audio Analysis, Body Language Analysis, and Material Quality Assessment. This README provides a summary of each component and their sub-modules, as well as an outline for the presentation.
